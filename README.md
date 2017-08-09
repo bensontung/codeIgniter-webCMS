@@ -19,21 +19,9 @@ CMS页面效果如下图：
 
 最终网站展示效果如 http://2017.mifa.hk/
 自适页面，兼容手机端！因此部分为公司网站，不在开源列表内！
-PC端效果
-
-![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/web-mifa.png)
-
-手机端效果
-
-![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/mobile-web.png)
 
 
-觉得好请加 Star ,并 ForK 一下，如对你有所帮助也可打赏一下，谢谢支持！
+
+觉得好请加 Star ,并 ForK 一下，谢谢支持！
 
 
-![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/104144242616492008.jpg)
-
-
-有问题请加微信!
-
-![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/217678327694757346.jpg)

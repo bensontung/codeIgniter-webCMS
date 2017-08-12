@@ -2,7 +2,7 @@
 webCMS by  Benson
 
 说明:
-本网站CMS系统技术栈,主要采用小巧但功能强大的PHP框架CodeIgniter,前端采用Bootstrap及开源的AdminLTE!
+本网站CMS系统技术栈,主要采用小巧但功能强大的PHP框架CodeIgniter,前端采用Bootstrap及开源的AdminLTE!本人也是刚接触CodeIgniter,编写基本参照用户手册，如果你是新手，可以当作一个学习例子！
 
 安装：
 你只需下载两个目录里面的内容:system与webcms.system是CodeIgniter的源码,下载放到服务器相关位置即可,无需配置。
@@ -24,4 +24,6 @@ CMS页面效果如下图：
 
 觉得好请加 Star ,并 ForK 一下，谢谢支持！
 
+如有问题请加微信（If you have any questions, please contact me at WeChat）
 
+![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/217678327694757346.jpg)

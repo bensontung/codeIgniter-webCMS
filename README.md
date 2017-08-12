@@ -26,4 +26,4 @@ CMS页面效果如下图：
 
 如有问题请加微信（If you have any questions, please contact me at WeChat）
 
-![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/217678327694757346.jpg =200x200)
+![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/217678327694757346.jpg)

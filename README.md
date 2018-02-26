@@ -24,6 +24,3 @@ CMS页面效果如下图：
 
 觉得好请加 Star ,并 ForK 一下，谢谢支持！
 
-如有问题请加微信（If you have any questions, please contact me at WeChat）
-
-![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/217678327694757346.jpg)

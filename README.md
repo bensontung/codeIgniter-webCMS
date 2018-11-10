@@ -17,7 +17,9 @@ CMS页面效果如下图：
 
 ![image](https://raw.githubusercontent.com/bensontung/codeIgniter-webCMS/master/webCMS.png)
 
-最终网站展示效果如 http://2017.mifa.hk/
+最终网站展示效果如 
+http://2017.mifa.net/product/m1
+
 自适页面，兼容手机端！因此部分为公司网站，不在开源列表内！
 
 
